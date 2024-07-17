@@ -1,0 +1,161 @@
+﻿<Window x:Class="LibraryManagement.ReportWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LibraryManagement"
+        mc:Ignorable="d"
+        Title="Report" Height="600" Width="1000"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize">
+    <Grid Background="Azure">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="10" />
+            <ColumnDefinition Width="300" />
+            <ColumnDefinition Width="1*" />
+            <ColumnDefinition Width="10" />
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0" />
+            <RowDefinition Height="60" />
+            <RowDefinition Height="60" />
+            <RowDefinition Height="60" />
+            <RowDefinition Height="1*" />
+        </Grid.RowDefinitions>
+
+        <Label Content="Report on Book Borrow"
+               Grid.Row="1"
+               Grid.Column="1"
+               Grid.ColumnSpan="2"
+               FontSize="30"
+               FontWeight="Light"
+               Foreground="Brown"
+               VerticalAlignment="Center"
+               HorizontalAlignment="Center" />
+
+        <StackPanel Grid.Row="2"
+                    Grid.Column="1"
+                    Grid.ColumnSpan="2"
+                    Orientation="Horizontal"
+                    VerticalAlignment="Center">
+            <Label Content=""
+                   FontSize="16"
+                   Foreground="Brown"
+                   Name="lbReport"/>
+            <Label Content=""
+                   FontSize="16"
+                   Foreground="Brown"
+                   FontWeight="SemiBold"
+                   Name="lbQuantity"/>
+
+        </StackPanel>
+
+        <StackPanel Orientation="Horizontal"
+                    VerticalAlignment="Center"
+                    HorizontalAlignment="Center"
+                    Grid.Row="3"
+                    Grid.Column="1">
+            <TextBox Width="200"
+                     Height="30"
+                     Padding="10,0,10,0"
+                     FontSize="16"
+                     VerticalContentAlignment="Center"
+                     Name="txtSearchBook" />
+            <Button Content="NAME"
+                    Width="80"
+                    FontSize="16"
+                    FontWeight="Light"
+                    Background="Brown"
+                    Foreground="White"
+                    Height="30"
+                    Cursor="Hand"
+                    Click="btnSearchBookClicked"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="3"
+                    Grid.Column="2"
+                    Orientation="Horizontal"
+                    HorizontalAlignment="Center">
+            <Button Content="BORROWING"
+                    Width="100"
+                    FontSize="16"
+                    FontWeight="Light"
+                    Background="Brown"
+                    Foreground="White"
+                    Cursor="Hand"
+                    Height="30" 
+                    Click="btnBorrowingClicked"/>
+            <TextBlock Width="40"></TextBlock>
+            <Button Content="RETURNED"
+                    Width="100"
+                    FontSize="16"
+                    FontWeight="Light"
+                    Background="Brown"
+                    Foreground="White"
+                    Height="30"
+                    Cursor="Hand"
+                    Click="btnReturnedClicked"/>
+            <TextBlock Width="40"></TextBlock>
+            <Button Content="REFRESH"
+                    Width="100"
+                    FontSize="16"
+                    FontWeight="Light"
+                    Background="Brown"
+                    Foreground="White"
+                    Height="30"
+                    Cursor="Hand" 
+                    Click="btnRefreshClicked"/>
+
+        </StackPanel>
+
+        <ListView Grid.Row="4"
+                  Grid.Column="1"
+                  Width="300"
+                  Height="360"
+                  Margin="0,10,0,10"
+                  Name="lvBooks"
+                  SelectionChanged="lvBooks_SelectionChanged">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Book Id"
+                                    Width="50"
+                                    TextElement.FontSize="16"
+                                    DisplayMemberBinding="{Binding BookId}" />
+                    <GridViewColumn Header="Book Name"
+                                    Width="240"
+                                    TextElement.FontSize="16"
+                                    DisplayMemberBinding="{Binding BookName}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+        <ListView Grid.Row="4"
+                  Grid.Column="2"
+                  Margin="10,10,10,10"
+                  Name="lvBorrowBooks">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="Student Code"
+                                    Width="100"
+                                    DisplayMemberBinding="{Binding Student.StudentCode}" />
+                    <GridViewColumn Header="Student Name"
+                                    Width="150"
+                                    DisplayMemberBinding="{Binding Student.Name}" />
+                    <GridViewColumn Header="Quantity"
+                                    Width="70"
+                                    DisplayMemberBinding="{Binding Quantity}" />
+                    <GridViewColumn Header="Borrow Date"
+                                    Width="100"
+                                    DisplayMemberBinding="{Binding BorrowDate}" />
+                    <GridViewColumn Header="Return Date"
+                                    Width="100"
+                                    DisplayMemberBinding="{Binding ReturnDate}" />
+                    <GridViewColumn Header="Status"
+                                    Width="100"
+                                    DisplayMemberBinding="{Binding Status}" />
+                </GridView>
+            </ListView.View>
+        </ListView>
+
+    </Grid>
+</Window>

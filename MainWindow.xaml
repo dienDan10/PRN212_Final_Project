@@ -1,0 +1,108 @@
+﻿<Window x:Class="LibraryManagement.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LibraryManagement"
+        mc:Ignorable="d"
+        Title="Library Management"
+        Height="480"
+        Width="800"
+        WindowStartupLocation="CenterScreen">
+    <Border>
+        <Border.Background>
+            <SolidColorBrush Color="#DDB886">
+
+            </SolidColorBrush>
+        </Border.Background>
+        <Grid>
+            <!-- Background Image -->
+            <Grid.Background>
+                <ImageBrush ImageSource="image/anh-nen.jpg"
+                            Opacity="0.5" />
+            </Grid.Background>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0" />
+                <ColumnDefinition Width="1*" />
+                <ColumnDefinition Width="30" />
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="30" />
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="30" />
+                <ColumnDefinition Width="2*" />
+                <ColumnDefinition Width="1*" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="5*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="5*" />
+                <RowDefinition Height="1*" />
+                <RowDefinition Height="5*" />
+                <RowDefinition Height="1*" />
+            </Grid.RowDefinitions>
+            <Button Content="Add Student"
+                    Grid.Column="3"
+                    Grid.Row="2"
+                    Cursor="Hand"
+                    Background="Bisque"
+                    FontSize="25"
+                    FontWeight="Bold"
+                    Foreground="Brown" Click="btnAddStudentClicked"/>
+            <Button Content="View Student"
+                    Grid.Column="5"
+                    Grid.Row="2"
+                    Cursor="Hand"
+                    Background="Bisque"
+                    FontSize="25"
+                    FontWeight="Bold"
+                    Foreground="Brown" Click="btnViewStudentClicked"/>
+            <Button Content="Add Book"
+                    Grid.Column="7"
+                    Grid.Row="2"
+                    Cursor="Hand"
+                    Background="Bisque"
+                    FontSize="25"
+                    FontWeight="Bold"
+                    Foreground="Brown" Click="btnAddBookClicked"/>
+            <Button Content="View Book"
+                    Grid.Column="3"
+                    Grid.Row="4"
+                    Cursor="Hand"
+                    Background="Bisque"
+                    FontSize="25"
+                    FontWeight="Bold"
+                    Foreground="Brown" Click="btnViewBookClicked"/>
+            <Button Content="Borrow Book"
+                    Grid.Column="5"
+                    Grid.Row="4"
+                    Cursor="Hand"
+                    Background="Bisque"
+                    FontSize="25"
+                    FontWeight="Bold"
+                    Foreground="Brown" 
+                    Click="btnBorrowBookClicked"/>
+            <Button Content="Return Book"
+                    Grid.Column="7"
+                    Grid.Row="4"
+                    Cursor="Hand"
+                    Background="Bisque"
+                    FontSize="25"
+                    FontWeight="Bold"
+                    Foreground="Brown" 
+                    Click="btnReturnBookClicked"/>
+            <Button Content="Report"
+                    Grid.Column="5"
+                    Grid.Row="6"
+                    Cursor="Hand"
+                    Background="Bisque"
+                    FontSize="25"
+                    FontWeight="Bold"
+                    Foreground="Brown"
+                    Click="btnReportClicked" />
+        </Grid>
+    </Border>
+
+</Window>
