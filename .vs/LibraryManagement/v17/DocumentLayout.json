@@ -3,7 +3,19 @@
   "WorkspaceRootPath": "D:\\Desktop\\Summer 2024\\PRN212\\LibraryManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|D:\\Desktop\\Summer 2024\\PRN212\\LibraryManagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|D:\\Desktop\\Summer 2024\\PRN212\\LibraryManagement\\reportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|solutionrelative:reportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|D:\\Desktop\\Summer 2024\\PRN212\\LibraryManagement\\reportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|solutionrelative:reportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|D:\\Desktop\\Summer 2024\\PRN212\\LibraryManagement\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|solutionrelative:loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|d:\\desktop\\summer 2024\\prn212\\librarymanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,23 +23,15 @@
       "RelativeMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|d:\\desktop\\summer 2024\\prn212\\librarymanagement\\reportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|solutionrelative:reportwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|d:\\desktop\\summer 2024\\prn212\\librarymanagement\\reportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|solutionrelative:reportwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|d:\\desktop\\summer 2024\\prn212\\librarymanagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|D:\\Desktop\\Summer 2024\\PRN212\\LibraryManagement\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|d:\\desktop\\summer 2024\\prn212\\librarymanagement\\returnbookwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|D:\\Desktop\\Summer 2024\\PRN212\\LibraryManagement\\returnbookwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|solutionrelative:returnbookwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|d:\\desktop\\summer 2024\\prn212\\librarymanagement\\returnbookwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|D:\\Desktop\\Summer 2024\\PRN212\\LibraryManagement\\returnbookwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|solutionrelative:returnbookwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -43,10 +47,6 @@
       "RelativeMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|solutionrelative:borrowbookwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|D:\\Desktop\\Summer 2024\\PRN212\\LibraryManagement\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|solutionrelative:loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|D:\\Desktop\\Summer 2024\\PRN212\\LibraryManagement\\addbookwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|solutionrelative:addbookwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -59,7 +59,7 @@
       "RelativeMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|solutionrelative:loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|d:\\desktop\\summer 2024\\prn212\\librarymanagement\\viewstudentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|D:\\Desktop\\Summer 2024\\PRN212\\LibraryManagement\\viewstudentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC5220E7-82A1-49B1-9FD9-CDF489D7F4D5}|LibraryManagement.csproj|solutionrelative:viewstudentwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -94,7 +94,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 22,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,7 +106,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Student.cs",
               "DocumentMoniker": "D:\\Desktop\\Summer 2024\\PRN212\\LibraryManagement\\Models\\Student.cs",
               "RelativeDocumentMoniker": "Models\\Student.cs",
@@ -114,37 +114,36 @@
               "RelativeToolTip": "Models\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T15:49:34.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T15:49:34.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ReportWindow.xaml.cs",
               "DocumentMoniker": "D:\\Desktop\\Summer 2024\\PRN212\\LibraryManagement\\ReportWindow.xaml.cs",
               "RelativeDocumentMoniker": "ReportWindow.xaml.cs",
               "ToolTip": "D:\\Desktop\\Summer 2024\\PRN212\\LibraryManagement\\ReportWindow.xaml.cs",
               "RelativeToolTip": "ReportWindow.xaml.cs",
-              "ViewState": "AQIAAEcAAAAAAAAAAAAUwF0AAABNAAAA",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAcwF0AAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-17T15:38:01.61Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ReportWindow.xaml",
               "DocumentMoniker": "D:\\Desktop\\Summer 2024\\PRN212\\LibraryManagement\\ReportWindow.xaml",
               "RelativeDocumentMoniker": "ReportWindow.xaml",
-              "ToolTip": "D:\\Desktop\\Summer 2024\\PRN212\\LibraryManagement\\ReportWindow.xaml",
-              "RelativeToolTip": "ReportWindow.xaml",
+              "ToolTip": "D:\\Desktop\\Summer 2024\\PRN212\\LibraryManagement\\ReportWindow.xaml*",
+              "RelativeToolTip": "ReportWindow.xaml*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-07-17T15:19:56.932Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ReturnBookWindow.xaml.cs",
               "DocumentMoniker": "D:\\Desktop\\Summer 2024\\PRN212\\LibraryManagement\\ReturnBookWindow.xaml.cs",
               "RelativeDocumentMoniker": "ReturnBookWindow.xaml.cs",
@@ -152,24 +151,22 @@
               "RelativeToolTip": "ReturnBookWindow.xaml.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAswCQAAAA3AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T14:18:16.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T14:18:16.316Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "ReturnBookWindow.xaml",
               "DocumentMoniker": "D:\\Desktop\\Summer 2024\\PRN212\\LibraryManagement\\ReturnBookWindow.xaml",
               "RelativeDocumentMoniker": "ReturnBookWindow.xaml",
               "ToolTip": "D:\\Desktop\\Summer 2024\\PRN212\\LibraryManagement\\ReturnBookWindow.xaml",
               "RelativeToolTip": "ReturnBookWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-17T14:12:50.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T14:12:50.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "BorrowBookWindow.xaml.cs",
               "DocumentMoniker": "D:\\Desktop\\Summer 2024\\PRN212\\LibraryManagement\\BorrowBookWindow.xaml.cs",
               "RelativeDocumentMoniker": "BorrowBookWindow.xaml.cs",
@@ -177,20 +174,18 @@
               "RelativeToolTip": "BorrowBookWindow.xaml.cs",
               "ViewState": "AQIAADAAAAAAAAAAAADwvzgAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T11:03:09.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T11:03:09.432Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "BorrowBookWindow.xaml",
               "DocumentMoniker": "D:\\Desktop\\Summer 2024\\PRN212\\LibraryManagement\\BorrowBookWindow.xaml",
               "RelativeDocumentMoniker": "BorrowBookWindow.xaml",
               "ToolTip": "D:\\Desktop\\Summer 2024\\PRN212\\LibraryManagement\\BorrowBookWindow.xaml",
               "RelativeToolTip": "BorrowBookWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-17T10:18:56.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T10:18:56.579Z"
             },
             {
               "$type": "Document",
@@ -202,8 +197,7 @@
               "RelativeToolTip": "ViewBookWindow.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T03:52:12.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T03:52:12.648Z"
             },
             {
               "$type": "Document",
@@ -215,8 +209,7 @@
               "RelativeToolTip": "AddBookWindow.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T03:24:27.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T03:24:27.408Z"
             },
             {
               "$type": "Document",
@@ -228,8 +221,7 @@
               "RelativeToolTip": "ViewStudentWindow.xaml.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-15T08:42:15.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-15T08:42:15.465Z"
             },
             {
               "$type": "Document",
@@ -245,13 +237,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "LoginWindow.xaml.cs",
               "DocumentMoniker": "D:\\Desktop\\Summer 2024\\PRN212\\LibraryManagement\\LoginWindow.xaml.cs",
               "RelativeDocumentMoniker": "LoginWindow.xaml.cs",
               "ToolTip": "D:\\Desktop\\Summer 2024\\PRN212\\LibraryManagement\\LoginWindow.xaml.cs",
               "RelativeToolTip": "LoginWindow.xaml.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAvwCkAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T16:20:25.997Z",
               "EditorCaption": ""
@@ -303,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\Desktop\\Summer 2024\\PRN212\\LibraryManagement\\App.xaml",
               "RelativeDocumentMoniker": "App.xaml",
@@ -333,30 +325,28 @@
               "ToolTip": "D:\\Desktop\\Summer 2024\\PRN212\\LibraryManagement\\LoginWindow.xaml",
               "RelativeToolTip": "LoginWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-14T14:01:16.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T14:01:16.68Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\Desktop\\Summer 2024\\PRN212\\LibraryManagement\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
               "ToolTip": "D:\\Desktop\\Summer 2024\\PRN212\\LibraryManagement\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-14T13:39:51.497Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-14T13:39:51.497Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "D:\\Desktop\\Summer 2024\\PRN212\\LibraryManagement\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "D:\\Desktop\\Summer 2024\\PRN212\\LibraryManagement\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAA6wD4AAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-14T13:39:50.5Z",
               "EditorCaption": ""

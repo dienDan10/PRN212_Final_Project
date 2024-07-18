@@ -156,3 +156,4 @@ D:\Desktop\Summer 2024\PRN212\LibraryManagement\obj\Debug\net8.0-windows\ReturnB
 D:\Desktop\Summer 2024\PRN212\LibraryManagement\obj\Debug\net8.0-windows\ReturnBookWindow.baml
 D:\Desktop\Summer 2024\PRN212\LibraryManagement\obj\Debug\net8.0-windows\ReportWindow.g.cs
 D:\Desktop\Summer 2024\PRN212\LibraryManagement\obj\Debug\net8.0-windows\ReportWindow.baml
+D:\Desktop\Summer 2024\PRN212\LibraryManagement\obj\Debug\net8.0-windows\LibraryManagement.sourcelink.json

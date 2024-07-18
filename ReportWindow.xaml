@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:LibraryManagement"
         mc:Ignorable="d"
-        Title="Report" Height="600" Width="1000"
+        Title="Report" Height="600" Width="1200"
         WindowStartupLocation="CenterScreen"
         ResizeMode="NoResize">
     <Grid Background="Azure">
@@ -139,8 +139,11 @@
                                     Width="100"
                                     DisplayMemberBinding="{Binding Student.StudentCode}" />
                     <GridViewColumn Header="Student Name"
-                                    Width="150"
+                                    Width="120"
                                     DisplayMemberBinding="{Binding Student.Name}" />
+                    <GridViewColumn Header="Book Name"
+                                    Width="230"
+                                    DisplayMemberBinding="{Binding Book.BookName}" />
                     <GridViewColumn Header="Quantity"
                                     Width="70"
                                     DisplayMemberBinding="{Binding Quantity}" />
